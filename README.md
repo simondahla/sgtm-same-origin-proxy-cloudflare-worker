@@ -1,6 +1,6 @@
 # SGTM Same-Origin Proxy
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/YOUR_USERNAME/sgtm-same-origin-cloudflare-worker)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/simondahla/sgtm-same-origin-cloudflare-worker)
 
 A Cloudflare Worker that proxies requests to server-side Google Tag Manager (SGTM), enabling same-origin tracking while your GTM server runs on a different domain.
 
