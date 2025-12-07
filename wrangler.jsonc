@@ -4,10 +4,11 @@
   "main": "src/index.ts",
   "compatibility_date": "2024-12-01",
 
-  // Environment variables are configured in:
-  // - .dev.vars for local development (gitignored)
-  // - Cloudflare dashboard for production deployment
-  // Required vars: GTM_DOMAIN, PATH_PREFIX
+  // Environment variables (configure these with your actual values)
+  "vars": {
+    "GTM_DOMAIN": "your-gtm-server.com",
+    "PATH_PREFIX": "/gtm/"
+  },
 
   // Route configuration - update with your actual domain
   // Note: You'll need to configure this in the Cloudflare dashboard
