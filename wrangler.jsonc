@@ -1,6 +1,6 @@
 {
   // Cloudflare Worker configuration for SGTM same-origin proxy
-  "name": "sgtm-same-origin-proxy",
+  "name": "sgtm-same-origin-proxy-cloudflare-worker",
   "main": "src/index.ts",
   "compatibility_date": "2024-12-01",
 
